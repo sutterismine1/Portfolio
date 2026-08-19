@@ -116,7 +116,7 @@ const Projects: React.FC = () => {
         {
             id: 7,
             title: 'Flappy Bird PPO AI',
-            description: 'An AI agent trained using Proximal Policy Optimization (PPO) to play Flappy Bird. Built with Python and TensorFlow, the project demonstrates reinforcement learning techniques and neural network training.',
+            description: 'An AI agent trained using Proximal Policy Optimization (PPO) to play Flappy Bird. Built with Python and PyTorch, the project demonstrates reinforcement learning techniques and neural network training.',
             image: '/assets/project-images/flappy-bird-ai.gif',
             tags: ['Python', 'AI', 'Individual Project'],
             link: 'https://github.com/sutterismine1/flappy-bird-ppo'
